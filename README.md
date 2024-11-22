@@ -3,7 +3,7 @@
 该项目提供了一个简单的脚本，用于自动化更新 Cysic 验证器所需的关键文件，并替换现有的旧文件。
 
 ## 功能
-1. 自动下载最新版本的 `libdarwin_prover.so` 和 `verifier_linux` 文件。
+1. 自动下载最新版本的 `libdarwin_verifier.so` 和 `verifier_linux` 文件。
 2. 替换目标目录中的旧文件。
 3. 将 `verifier_linux` 重命名为 `verifier`。
 4. 设置文件的执行权限，确保验证器正常运行。
