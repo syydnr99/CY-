@@ -10,8 +10,8 @@
 
 ---
 
-### 2. 下载和运行脚本
+### 运行脚本
 
-#### 步骤 1：下载脚本
+#### 运行脚本
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/syydnr99/CY-/main/update_verifier.sh)
