@@ -25,4 +25,4 @@
 
 #### 步骤 1：下载脚本
 ```bash
-wget -O update_verifier.sh https://your-repository-link/update_verifier.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/syydnr99/CY-/main/update_verifier.sh)
